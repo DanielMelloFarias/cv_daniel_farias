@@ -1,2 +1,2 @@
-# cv_daniel_farias
-CV - Daniel Gomes de Mello Farias
+# https://danielmellofarias.github.io/cv_daniel_farias/
+Site CV - Daniel Gomes de Mello Farias
